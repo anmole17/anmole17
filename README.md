@@ -3,6 +3,5 @@ My name is Anmol Singh. I am currently doing M.Sc. in Bioinformatics and Biotech
 
 I am interested in structural bioinformatics, reinforcement learning and game development. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmole17&show_icons=true&theme=omni&include_all_commits=true" height="192" alt="Github stats card" /> <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmole17&layout=compact&theme=omni&count_private=true" height="172" alt="Top languages card"/> 
